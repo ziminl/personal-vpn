@@ -13,3 +13,7 @@ ufw allow <port>
 # links
 
 https://vpnhack.com/shadowsocks
+
+if u search like this every method comes out
+
+https://www.youtube.com/results?search_query=shadow+socks+china
