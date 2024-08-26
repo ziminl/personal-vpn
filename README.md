@@ -17,3 +17,5 @@ https://vpnhack.com/shadowsocks
 if u search like this every method comes out
 
 https://www.youtube.com/results?search_query=shadow+socks+china
+
+https://www.youtube.com/results?search_query=shadow+socks+&sp=CAI%253D
